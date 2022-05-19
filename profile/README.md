@@ -1,5 +1,6 @@
 ### 👋🏻 사용 방법
 - 팀별 레포지토리를 생성하여 pintos clone
+  - pintos12-team0{팀 번호} 로 레포지토리 생성
 
 ```
 git clone --bare https://github.com/casys-kaist/pintos-kaist.git
