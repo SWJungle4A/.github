@@ -1,6 +1,7 @@
 ### 👋🏻 사용 방법
 - 팀별 Repository를 생성하여 pintos clone
   - pintos12-team0{팀 번호} 로 리포지토리 생성
+  - pintos에서 사용하는 branch는 `main`이 아닌 `master`이므로 clone 전 수정 필요
 
 ```
 git clone --bare https://github.com/casys-kaist/pintos-kaist.git
