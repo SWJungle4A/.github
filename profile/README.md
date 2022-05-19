@@ -5,10 +5,10 @@
 ```
 git clone --bare https://github.com/casys-kaist/pintos-kaist.git
 cd pintos-kaist.git
-git push --mirror https://github.com/SWJungle4A/{팀 레포지토리}.git
+git push --mirror https://github.com/SWJungle4A/{팀 리포지토리}.git
 cd ..
 rm -rf pintos-kaist.git
-git clone https://github.com/$SWJungle4A/{팀 레포지토리}.git
+git clone https://github.com/$SWJungle4A/{팀 리포지토리}.git
 ```
 
 ### ☝️ 커뮤니티 규칙
