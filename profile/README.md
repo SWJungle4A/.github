@@ -1,0 +1,15 @@
+### 👋🏻 사용 방법
+- 팀별 레포지토리를 생성하여 pintos clone
+
+```
+git clone --bare https://github.com/casys-kaist/pintos-kaist.git
+cd pintos-kaist.git
+git push --mirror https://github.com/SWJungle4A/{팀 레포지토리}.git
+cd ..
+rm -rf pintos-kaist.git
+git clone https://github.com/$SWJungle4A/{팀 레포지토리}.git
+```
+
+
+### ☝️ 커뮤니티 규칙
+- 다른 팀 레포지토리 임의 수정 금지
